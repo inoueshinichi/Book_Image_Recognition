@@ -1,0 +1,2 @@
+# Book_Image_Recognition
+機械学習実践シリーズ Pythonで学ぶ画像認識
