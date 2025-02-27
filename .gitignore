@@ -1,0 +1,7 @@
+
+.idea
+__pycache__
+retinanet_coco2014/tmp.json
+retinanet_coco2014/model/
+detr_coco2014/model/
+show_and_tell_coco2014/model/
